@@ -1,0 +1,12 @@
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.csproj.AssemblyReference.cache
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.csproj.SuggestedBindingRedirects.cache
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.Form1.resources
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.Hra.resources
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.Properties.Resources.resources
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.csproj.GenerateResource.cache
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.csproj.CoreCompileInputs.cache
+C:\Projects\SkryteObrazky\bin\Debug\SkryteObrazky.exe.config
+C:\Projects\SkryteObrazky\bin\Debug\SkryteObrazky.exe
+C:\Projects\SkryteObrazky\bin\Debug\SkryteObrazky.pdb
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.exe
+C:\Projects\SkryteObrazky\obj\Debug\SkryteObrazky.pdb
